@@ -10,13 +10,13 @@ A Python script for asynchronously reading files from a source folder and sortin
    cd <repository-folder>
 
 2. Create a virtual environment:
-
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. Install dependencies using pip:
-
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 ## Usage
 Run the script with the following command:
